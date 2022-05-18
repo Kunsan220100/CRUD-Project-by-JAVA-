@@ -1,2 +1,2 @@
-# CRUD-Project-by-JAVA-
-a CRUD Project by JAVA 
+# java_scanner 
+bu mening 1-Proyektim. 
